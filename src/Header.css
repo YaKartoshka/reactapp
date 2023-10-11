@@ -1,0 +1,12 @@
+header nav{
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    align-items: center;
+    background-color: brown;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
